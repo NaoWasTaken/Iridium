@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/naowastaken/iridium/releases">
+  <a href="https://github.com/NaoWasTaken/Iridium/releases">
     <img src="https://img.shields.io/github/v/release/naowastaken/iridium?display_name=tag&label=release" alt="Latest release">
   </a>
   <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="Windows">
@@ -52,7 +52,7 @@ Your notes live as plain local Markdown files on your machine. No internet conne
 
 Download the latest Windows installer from:
 
-**https://github.com/naowastaken/iridium/releases**
+**https://github.com/NaoWasTaken/Iridium/releases**
 
 The packaged installer is named:
 
