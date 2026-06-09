@@ -50,13 +50,13 @@ Your notes live as plain local Markdown files on your machine. No internet conne
 
 ## Download
 
-Download the latest Windows installer from:
+Download the latest installer from:
 
 **https://github.com/NaoWasTaken/Iridium/releases**
 
 The packaged installer is named:
 
-`Iridium_Setup_0.1.0.exe`
+`Iridium_Setup_X.X.X.exe`
 
 ## Screenshots
 
