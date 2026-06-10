@@ -13,7 +13,7 @@
   <a href="https://github.com/NaoWasTaken/Iridium/releases">
     <img src="https://img.shields.io/github/v/release/naowastaken/iridium?display_name=tag&label=release" alt="Latest release">
   </a>
-  <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="Windows">
+  <img src="https://img.shields.io/badge/platform-Windows/Mac-0078D6" alt="Windows">
   <img src="https://img.shields.io/badge/offline-local--first-111111" alt="Local-first">
   <img src="https://img.shields.io/badge/notes-Markdown-000000" alt="Markdown">
   <img src="https://img.shields.io/badge/built%20with-Electron-47848F" alt="Built with Electron">
@@ -56,7 +56,8 @@ Download the latest installer from:
 
 The packaged installer is named:
 
-`Iridium_Setup_X.X.X.exe`
+`Iridium_Setup_X.X.X.exe` for Windows\
+`Iridium_Setup_X.X.X.dmg` for Mac
 
 ## Screenshots
 
@@ -101,26 +102,6 @@ Iridium is a good fit if you want:
 - TypeScript
 - Vite
 - CodeMirror 6
-
-## Development
-
-Node.js 22 is recommended.
-
-```powershell
-npm install
-npm run dev
-```
-
-## Build
-
-```powershell
-npm run build
-```
-
-This produces:
-
-- renderer assets in `dist/`
-- packaged Windows output in `release/`
 
 ## Project Goals
 
